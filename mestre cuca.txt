@@ -1,0 +1,19 @@
+1-A [início] -> B ->[pegar a frigideira no armadrio]
+
+2-B -> C[colocar frigideira no fogão]
+
+3-C -> D[colocar uma colher de óleo na frigideira]
+
+4-D -> E[verificar se o óleo esta quente]
+
+(se estiver quente)
+
+5-E -> F[quebre o ovo na frigideira]
+
+(senão não estiver quente)
+
+-esperar 30 segundos
+
+-volte ao passo passo 4
+
+6-fim 
